@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JH2516
 - 👀 I’m interested in FPS, open world games
 - 🌱 I’m currently learning about game programming
-- 💞️ I’m looking to collaborate on design, programer, coder
+- 💞️ I’m looking to collaborate on art design, programer, coder
 - 📫 You can connect me with Email (kaizer2516@gmail.com)
 
 
